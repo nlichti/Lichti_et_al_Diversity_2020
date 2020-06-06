@@ -1,4 +1,5 @@
 #Lichti_et_al_Diversity_2020
+
 *Code and parameter values for Lichti, Dalgleish, and Steele (submited) *Shade, cache-pilferage, and anti-predator behavior in foragers may drive seed trait evolution in scatter-hoarded plants.* Diversity X:XX.*
 
 
