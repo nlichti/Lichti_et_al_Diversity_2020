@@ -22,8 +22,8 @@
 #
 # -----------------------------------------------------------------------------
 
-source('Lichti_hoarding_model_06062020-1600.R')
-# See note in Lichti_hoarding_model_06062020-1600.R header re: unit conversions.
+source('hoarding_model_06062020-1600.R')
+# See note in hoarding_model_06062020-1600.R header re: unit conversions.
 
 # -----------------------------------------------------------------------------
 # Some function definitions used in this analysis
