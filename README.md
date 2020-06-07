@@ -5,7 +5,7 @@
 
 **Files in this repository:** The following files should be placed in the working directory for you current R session.
 
-1. `hoarding_model_optimization.R` - Contains the functions and code used to run the analyses in this paper and generate Figures 1-4. Running this script will automatically source
+1. `hoarding_model_optimization.R` - Contains the functions and code used to run the analyses in this paper and generate Figures 1-4. Running this script will automatically source `hoarding_model_06062020-1600.R`.
 2. `hoarding_model_06062020-1600.R` - This file contains the core functions for the model, including functions needed to load parameterization files into R. Any required packages will automatically be loaded, and if necessary, installed.  This code has been borrowed from a related project that aims to model dynamic seed-hoarder-predator interactions in a differential equation framework.
  `hoarding_model_06062020-1600.R` and upload the parameter values in `parameters.xlsx` and `initial_values.xlsx`.
 3. `parameters.xlsx` - an Excel workbook that contains 11 spreadsheets with different parameter values.  The top row of each sheet provides a brief description of the contents.  
